@@ -1,0 +1,16 @@
+    1  bluemoon -h
+    2  bluetoothctl
+    3  btmon -h
+    4  systemctl start bluetooth.service
+    5  rfkill
+    6  service bluetooth restart
+    7  sudo service bluetooth restart
+    8  bluetoothctl
+    9  sudo apt install bluetooth
+   10  ls
+   11  cd Downloads/
+   12  ls
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  bluetoothctl
+   16  burpsuite
